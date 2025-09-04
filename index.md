@@ -6,3 +6,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+
+## My favorite things
+
+- Learning GitHub
+- Writing Markdown
+- Using emojis 🎉
