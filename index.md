@@ -3,3 +3,6 @@
 ## This is a second-level header
 
 ### This is a third-level header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
