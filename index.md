@@ -7,8 +7,8 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-## My favorite things
+1. First
+2. Second
+3. Third
 
-- Learning GitHub
-- Writing Markdown
-- Using emojis 🎉
+
